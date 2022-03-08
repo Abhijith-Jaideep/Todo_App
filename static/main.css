@@ -5,10 +5,10 @@ body{
 
 .info_entry{
     box-shadow: 0px 0px 4px 4px black;
-    padding: 20px;
+    padding: 10px;
     border-radius: 20px;
     border: 3px outset white;
-    margin-top: 75px;
+    margin-top: 40px;
     background-color: rgba(0,0,0,.5);
     color: #fff;
 }
